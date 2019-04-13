@@ -1,1 +1,1 @@
-# deep-bayes
+# Theoretical Assignment
