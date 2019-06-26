@@ -1,1 +1,1 @@
-### Theoretical && paper assignments
+### Theoretical assignments
